@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cine-zone-tau.vercel.app/sitemap.xml
